@@ -20,3 +20,10 @@ p {
   font-size: 30px;
   border: 50px solid royalblue;
 }
+h3 {
+  background-color: sandybrown;
+  padding: 30px;
+  text-align: center;
+  margin: 0;
+  font-style: 70px;
+}
