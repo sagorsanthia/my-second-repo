@@ -1,6 +1,7 @@
 body {
   margin: 0;
   padding: 0;
+  position: relative;
 }
 h1 {
   background-color: cornsilk;
@@ -10,6 +11,10 @@ h1 {
   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   text-align: center;
   margin: 0;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
 }
 p {
   text-align: justify;
