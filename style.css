@@ -32,3 +32,13 @@ h3 {
   margin: 0;
   font-style: 70px;
 }
+.main {
+  display: flex;
+  background:rgb(216, 104, 29);
+  padding: 50px;
+div .same {
+  width: 48%;
+  padding: 30px;
+  margin-right: 2%;
+  border-left: 2px solid blue;
+}
